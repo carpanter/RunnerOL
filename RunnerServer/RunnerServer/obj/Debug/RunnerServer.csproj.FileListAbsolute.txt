@@ -1,0 +1,8 @@
+D:\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\RunnerServer\bin\log4net.config
+D:\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\RunnerServer\bin\RunnerServer.dll
+D:\Photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\RunnerServer\bin\RunnerServer.pdb
+D:\RunnerServer\RunnerServer\obj\Debug\RunnerServer.csproj.CoreCompileInputs.cache
+D:\RunnerServer\RunnerServer\obj\Debug\RunnerServer.csproj.CopyComplete
+D:\RunnerServer\RunnerServer\obj\Debug\RunnerServer.dll
+D:\RunnerServer\RunnerServer\obj\Debug\RunnerServer.pdb
+D:\RunnerServer\RunnerServer\obj\Debug\RunnerServer.csprojAssemblyReference.cache
